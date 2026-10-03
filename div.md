@@ -1,6 +1,2 @@
-If you have 3 friends and 2 cakes, and you gotta give each friend cake, make the cake the same size as the friends.
-
-
-
-2/3 = 0.666
+To divide 2 numbers you must take what it is from how much it isn't and take the what is isn't from what it is.
 
